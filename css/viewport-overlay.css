@@ -1,0 +1,25 @@
+.viewport-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 4px 8px;
+  color: #fff;
+  font: 12px/140% sans-serif;
+  background: rgba(0,0,0,0.8);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.5);
+}
+
+.viewport-overlay > div {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.viewport-overlay .title {
+  font-weight: bold;
+}
+
+.viewport-overlay .label {
+  font-weight: bold;
+  color: #fc2;
+}

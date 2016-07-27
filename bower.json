@@ -1,0 +1,26 @@
+{
+  "name": "viewportOverlay",
+  "homepage": "https://github.com/pheriannath/viewportOverlay",
+  "authors": [
+    "Michael Katsufrakis <pheriannath@gmail.com>"
+  ],
+  "description": "A simple overlay to display viewport dimensions and assist in media query debugging.",
+  "main": [
+    "js/viewport-overlay.js",
+    "css/viewport-overlay.css"
+  ],
+  "keywords": [
+    "viewport",
+    "media",
+    "queries"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
